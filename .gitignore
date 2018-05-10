@@ -1,0 +1,5 @@
+# ignore models
+model
+data
+.vs
+__pycache__
